@@ -1,6 +1,7 @@
 ---
 name: VWLP-AI-review
-description:根据虚拟世界逻辑性协议（Virtual World Logic Protocol ，VWLP）中的规则，审查当前在虚拟世界背景下的设定文档或者剧情文档以及规则链表文档，向用户指出不符合规则的地方。当用户需要根据虚拟世界逻辑性协议（Virtual World Logic Protocol ，VWLP）审查当前文档时触发。触发关键词包括：VWLP，虚拟世界逻辑性协议，Virtual World Logic Protocol。
+description: 根据虚拟世界逻辑性协议（Virtual World Logic Protocol ，VWLP）中的规则，审查当前在虚拟世界背景下的设定文档或者剧情文档以及规则链表文档，向用户指出不符合规则的地方。当用户需要根据虚拟世界逻辑性协议（Virtual World Logic Protocol ，VWLP）审查当前文档时触发。触发关键词包括：VWLP，虚拟世界逻辑性协议，Virtual World Logic Protocol。
+license: Apache-2.0 Licence
 ---
 # VWLP-AI-review
 
